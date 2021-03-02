@@ -4,21 +4,27 @@ This program creates more variations of datasets for training your deep learning
 
 # Geometric Operations
 
-# 1.Rotation
+## 1.Rotation
 
 Can be set find out the rotations of images whether clockwise or counter clockwise.
 
 # Photometric Operations
 
-# 1. Color Jittering 
+## 1. Color Jittering 
 
 Manipulates the color channels of the images by introducing noises to each channel.
 
-# 2. PCA ( Soon to come )
+## 2. PCA ( Soon to come )
 
 Raw implementation of reducing the dimensions of the data to the simplest form.
 
 
 
+
+# Other implementations to walkthrough
+
+## Single Value Decomposition
+
+Soon to add
 
 

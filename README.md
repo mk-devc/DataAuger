@@ -1,5 +1,7 @@
 # DataAugmentation
 
+https://arxiv.org/pdf/1708.06020.pdf
+
 This program creates more variations of datasets for training your deep learning models. This was inspired by the types of geometric or photometric data augmentations that will lead to better model accuracy and performance.There are a few type of operations that are performed such as:
 
 # Geometric Operations
@@ -25,6 +27,9 @@ Raw implementation of reducing the dimensions of the data to the simplest form.
 
 ## Single Value Decomposition
 
-Soon to add
+Soon to add:
+
+1. Parallel Processing for Large Datasets.
+2. Upgrade UI with preview.
 
 
